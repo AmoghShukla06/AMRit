@@ -1,0 +1,53 @@
+[
+ {
+  "label": "Dolo 650",
+  "product_name": "Dolo 650 Tablet",
+  "keywords": [
+   "dolo"
+  ],
+  "note": "paracetamol brand 1 (double-dose demo)"
+ },
+ {
+  "label": "Crocin",
+  "product_name": "Crocin Advance Tablet",
+  "keywords": [
+   "crocin"
+  ],
+  "note": "paracetamol brand 2 + Jan Aushadhi generic"
+ },
+ {
+  "label": "Azithral",
+  "product_name": "Azithral 500 Tablet",
+  "keywords": [
+   "azithral"
+  ],
+  "note": "Watch antibiotic + course tracker"
+ },
+ {
+  "label": "DEMO ban",
+  "product_name": "Nixar 100mg/500mg Tablet DT",
+  "keywords": [
+   "nixar"
+  ],
+  "note": "printed DEMO label: nimesulide + paracetamol dispersible (banned 2023)"
+ },
+ {
+  "label": "Telma-AM batch",
+  "product_name": "Telma-AM Tablet",
+  "keywords": [
+   "telma"
+  ],
+  "batch": "18230791",
+  "expiry": "05/2027",
+  "note": "printed DEMO label with a batch number that is in CDSCO's published spurious-drug list for Telma-AM"
+ },
+ {
+  "label": "Combiflam expired",
+  "product_name": "Combiflam Tablet",
+  "keywords": [
+   "combiflam"
+  ],
+  "expiry": "08/2026",
+  "note": "printed DEMO label with a past expiry: shows Throw away in the box audit"
+ }
+]

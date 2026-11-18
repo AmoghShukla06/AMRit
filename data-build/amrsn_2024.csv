@@ -1,0 +1,29 @@
+organism,infection,specimen,antibiotic,ingredient_keys,susceptible,tested,pct,report_page,table
+Escherichia coli,urine,urine,Ciprofloxacin,ciprofloxacin,3020,13476,22.4,77,Table 2.14
+Escherichia coli,urine,urine,Levofloxacin,levofloxacin,951,4330,22.0,77,Table 2.14
+Escherichia coli,urine,urine,Trimethoprim-sulfamethoxazole,trimetoprim;sulfametoxazol,4486,9094,49.3,77,Table 2.14
+Escherichia coli,urine,urine,Nitrofurantoin,nitrofurantoin,8981,11119,80.8,77,Table 2.14
+Escherichia coli,urine,urine,Fosfomycin,fosfomicin,6288,6821,92.2,77,Table 2.14
+Escherichia coli,urine,urine,Cefotaxime,cefotaxim,1913,7422,25.8,77,Table 2.14
+Escherichia coli,urine,urine,Ceftazidime,ceftazidim,1600,4722,33.9,77,Table 2.14
+Escherichia coli,urine,urine,Cefazolin,cefazolin,453,3727,12.2,77,Table 2.14
+Escherichia coli,urine,urine,Amikacin,amikacin,10221,13476,75.8,77,Table 2.14
+Escherichia coli,urine,urine,Piperacillin-tazobactam,piperacilin;tazobactam,5182,9269,55.9,77,Table 2.14
+Escherichia coli,urine,urine,Ertapenem,ertapenem,6975,9066,76.9,77,Table 2.14
+Escherichia coli,urine,urine,Imipenem,imipenem,5989,8708,68.8,77,Table 2.14
+Escherichia coli,urine,urine,Meropenem,meropenem,7476,10241,73,77,Table 2.14
+Salmonella Typhi,typhoid,blood,Ampicillin,ampicilin,748,767,97.5,116,Table 4.1
+Salmonella Typhi,typhoid,blood,Azithromycin,azitromicin,837,841,99.5,116,Table 4.1
+Salmonella Typhi,typhoid,blood,Cefixime,cefixim,614,627,97.9,116,Table 4.1
+Salmonella Typhi,typhoid,blood,Cefotaxime,cefotaxim,824,841,98,116,Table 4.1
+Salmonella Typhi,typhoid,blood,Ceftriaxone,ceftriaxon,824,841,98,116,Table 4.1
+Salmonella Typhi,typhoid,blood,Chloramphenicol,chloramfenicol,578,592,97.6,116,Table 4.1
+Salmonella Typhi,typhoid,blood,Ciprofloxacin,ciprofloxacin,11,841,1.3,116,Table 4.1
+Salmonella Typhi,typhoid,blood,Trimethoprim-sulfamethoxazole,trimetoprim;sulfametoxazol,812,831,97.7,116,Table 4.1
+Staphylococcus aureus,staph,all specimens,Erythromycin,eritromicin,2976,8293,35.9,139,Table 6.1
+Staphylococcus aureus,staph,all specimens,Vancomycin,vancomicin,7968,7968,100,139,Table 6.1
+Staphylococcus aureus,staph,all specimens,Tetracycline,tetraciclin,3765,4241,88.8,140,Table 6.1
+Staphylococcus aureus,staph,all specimens,Ciprofloxacin,ciprofloxacin,1474,8036,18.3,140,Table 6.1
+Staphylococcus aureus,staph,all specimens,Clindamycin,clindamicin,6013,8270,72.7,140,Table 6.1
+Staphylococcus aureus,staph,all specimens,Trimethoprim-sulfamethoxazole,trimetoprim;sulfametoxazol,6118,7968,76.8,140,Table 6.1
+Staphylococcus aureus,staph,all specimens,Linezolid,linezolid,7961,8169,97.5,140,Table 6.1

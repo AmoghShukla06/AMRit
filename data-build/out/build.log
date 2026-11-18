@@ -1,0 +1,19 @@
+  ! fdc_2019_80_list.pdf: no extractable table (scanned image?) - skipped
+WHO AWaRe ...
+DDInter ...
+Medicines ...
+CDSCO ...
+Jan Aushadhi ...
+Writing DB ...
+# AMRit reference DB build report
+
+- products: 253,774 (overlay fixed 1,175 truncated compositions)
+- compositions: 11,914
+- ingredients: 2,865 (237 WHO antibiotics)
+- interactions kept: 43,783
+- banned FDC entries: 187
+- Jan Aushadhi products: 1638
+- DB size: 22.2 MB
+- build time: 37s
+
+

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Cleartext is allowed only so the hackathon backend can run on a laptop on the venue LAN.
+     Deploy the backend behind HTTPS and remove this for anything beyond the demo. -->
+<network-security-config>
+    <base-config cleartextTrafficPermitted="true" />
+</network-security-config>

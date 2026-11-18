@@ -1,0 +1,102 @@
+alias,canonical,note
+# Standard name pairs (British/Indian Approved Name or common Indian label name -> INN). Spelling-only variants
+# (amoxycillin/amoxicillin, sulphate/sulfate, cephalexin/cefalexin, riboflavine/riboflavin, guaiphenesin/guaifenesin)
+# are handled by the phonetic key in build_db.py and do not need rows here.
+acetaminophen,paracetamol,USAN vs INN
+salbutamol,salbutamol,
+albuterol,salbutamol,USAN vs INN
+levalbuterol,levosalbutamol,USAN vs INN
+frusemide,furosemide,BAN vs INN
+lignocaine,lidocaine,BAN vs INN
+adrenaline,epinephrine,BAN vs INN
+noradrenaline,norepinephrine,BAN vs INN
+thyroxine,levothyroxine,Indian label name
+thyroxine sodium,levothyroxine,Indian label name
+rifampin,rifampicin,USAN vs INN
+chlorphenamine,chlorpheniramine,INN vs common label name
+glyburide,glibenclamide,USAN vs INN
+dicycloverine,dicyclomine,INN vs common label name
+acetylsalicylic acid,aspirin,
+acetyl salicylic acid,aspirin,
+cyanocobalamin,cyanocobalamin,
+vitamin b12,cyanocobalamin,
+vitamin b6,pyridoxine,
+vitamin b1,thiamine,
+vitamin b2,riboflavin,
+vitamin b3,nicotinamide,
+niacinamide,nicotinamide,
+vitamin c,ascorbic acid,
+vitamin d3,cholecalciferol,
+colecalciferol,cholecalciferol,INN vs BAN
+mesalamine,mesalazine,USAN vs INN
+meperidine,pethidine,USAN vs INN
+phenobarbitone,phenobarbital,BAN vs INN
+dothiepin,dosulepin,BAN vs INN
+hydroxyurea,hydroxycarbamide,USAN vs INN
+cyclosporine,ciclosporin,USAN vs INN
+cromolyn,cromoglicic acid,USAN vs INN
+sodium cromoglycate,cromoglicic acid,BAN vs INN
+beclomethasone,beclometasone,BAN vs INN
+etamsylate,ethamsylate,INN vs label name
+glycerol,glycerin,
+glycerine,glycerin,
+propoxyphene,dextropropoxyphene,
+metaproterenol,orciprenaline,USAN vs INN
+isoproterenol,isoprenaline,USAN vs INN
+co-trimoxazole,cotrimoxazole,combination name
+serrapeptase,serratiopeptidase,
+serratiopeptase,serratiopeptidase,
+dextromethorphan hydrobromide,dextromethorphan,
+liquid paraffin,mineral oil,
+light liquid paraffin,mineral oil,
+mineral oil,mineral oil,
+clavulanate,clavulanic acid,
+potassium clavulanate,clavulanic acid,
+diluted potassium clavulanate,clavulanic acid,
+valproate,valproic acid,
+sodium valproate,valproic acid,
+divalproex,valproic acid,
+esomeprazole magnesium,esomeprazole,
+amoxicillin,amoxicillin,
+pivsulbactam,sulbactam,prodrug name in WHO list
+sultamicillin,sultamicillin,
+lactic acid bacillus,lactic acid bacillus,
+lactobacillus sporogenes,lactic acid bacillus,Bacillus coagulans is sold as L. sporogenes in India
+bacillus coagulans,lactic acid bacillus,Bacillus coagulans is sold as L. sporogenes in India
+lactic ferments,lactic acid bacillus,
+tetracycline hydrochloride,tetracycline,
+ofloxacin,ofloxacin,
+levocetrizine,levocetirizine,common misspelling on labels
+cetrizine,cetirizine,common misspelling on labels
+pheniramine maleate,pheniramine,
+guaifenesin,guaifenesin,
+vitamin a acetate,vitamin a,
+alpha tocopherol,vitamin e,
+alphatocopherol acetate,vitamin e,
+tocopherol,vitamin e,
+tocopheryl acetate,vitamin e,
+vitamin e acetate,vitamin e,
+d-panthenol,dexpanthenol,
+d panthenol,dexpanthenol,
+d-penthenol,dexpanthenol,label misspelling in CDSCO list
+panthenol,dexpanthenol,
+aloes,aloe vera,
+aloe,aloe vera,
+aloe extract,aloe vera,
+aloe vera gel,aloe vera,
+zpto,zinc pyrithione,abbreviation in CDSCO list
+gamma benzene hexachloride,lindane,
+ubidecarenone,coenzyme q10,
+ammomium chloride,ammonium chloride,label misspelling in CDSCO list
+chlopheniramine maleate,chlorpheniramine,label misspelling in CDSCO list
+n-acetylcysteine,acetylcysteine,
+n acetyl cysteine,acetylcysteine,
+acetyl cysteine,acetylcysteine,
+s-adenosyl methionine,ademetionine,
+choline bitartratee,choline bitartrate,label misspelling in CDSCO list
+methyl ergometrine,methylergometrine,
+ors,oral rehydration salts,
+n-acetyl-l-cysteine,acetylcysteine,
+n acetyl l cysteine,acetylcysteine,
+acetyl l cysteine,acetylcysteine,
+nac,acetylcysteine,abbreviation

@@ -1,0 +1,11 @@
+{
+  "Photos evaluated": "116",
+  "Brand→ingredient accuracy": "99.1%",
+  "Wrong answers": "0 (0.0%)",
+  "Zero API calls": "76.7%",
+  "Hit the API": "23.3%",
+  "Latency p50 / p95": "111 ms / 3311 ms",
+  "Unknown products wrongly matched": "0",
+  "API cost / 100 scans": "$0.0045",
+  "Measured on": "motorola edge 60 fusion"
+}

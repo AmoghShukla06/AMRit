@@ -1,0 +1,12 @@
+{
+  "Photos evaluated": "92",
+  "Brand→ingredient accuracy": "90.2%",
+  "Wrong answers (unsafe)": "0.0%",
+  "Scans with zero API calls": "90.2%",
+  "Scans that hit the API": "9.8%",
+  "Latency p50 / p95": "n/a / n/a",
+  "Clear strips on-device": "94.2%",
+  "API cost / 100 scans": "n/a",
+  "Thresholds (accept / confirm)": "0.90 / 0.50",
+  "Measured on": "proxy"
+}

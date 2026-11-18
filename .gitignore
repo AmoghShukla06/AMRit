@@ -1,0 +1,34 @@
+.gradle/
+build/
+local.properties
+.idea/
+*.iml
+.DS_Store
+captures/
+.externalNativeBuild
+.cxx
+backend/.env
+backend/*.db
+backend/.venv/
+__pycache__/
+# raw datasets are downloaded by data-build/fetch_data.sh; test photos come from a third party and are not redistributed
+data/raw/
+data/test_photos/
+eval/out/ocr/
+eval/.venv/
+eval/out/proxy/
+backend/server.log
+env.local
+
+# explainroo video project and rendered videos
+videos/
+*.mp4
+# superseded decks
+AMRit pitch (old).pdf
+# local tool state and working notes
+.superpowers/
+docs/superpowers/
+docs/CHECKLIST.md
+supabase/.temp/
+.kotlin/
+.vscode/

@@ -1,0 +1,19 @@
+Installed on 1 device.
+running on the phone (the Stats screen shows progress)...
+# AMRit evaluation report
+
+Source: `eval\out\device` · measured on: motorola edge 60 fusion  
+Photos: 116 ({clear=69, glare=12, blur=11, not_in_db=24})  
+Decisions use the app's evidence rules (core/Resolver.kt): accept only on corroborated evidence, otherwise ask or fall back.
+
+Accuracy = right ingredients for products in the DB; for products not in the DB, saying not found or showing the right ingredients.  
+Wrong = the app would show another product's ingredients. A simulated user on the confirm screen picks the right option only if it is offered.
+
+| Set | n | Accuracy | Wrong | Zero-API | Hit API | Not resolved | p50 | p95 |
+|---|---|---|---|---|---|---|---|---|
+| all | 116 | 95.7% | 3.4% | 77.6% | 22.4% | 6.9% | 111 ms | 3678 ms |
+| clear | 69 | 98.6% | 0.0% | 88.4% | 11.6% | 1.4% | 96 ms | 2743 ms |
+| glare+blur | 23 | 91.3% | 8.7% | 73.9% | 26.1% | 0.0% | 153 ms | 4138 ms |
+| not in DB | 24 | 91.7% | 8.3% | 50.0% | 50.0% | 29.2% | 221 ms | 2376 ms |
+
+-> eval\out\device\report.md

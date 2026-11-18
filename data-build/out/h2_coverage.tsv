@@ -1,0 +1,301 @@
+n	entry	base_key	level	db_product
+1	ACILOC 150 MG TABLET 30	aciloc	exact	Aciloc 150 Tablet
+2	ACILOC 300 MG TABLET 20	aciloc	exact	Aciloc 300 Tablet
+3	ACTEMRA 400 MG INJECTION 1	actemra	exact	ACTEMRA 400 MG INJECTION
+4	ACTRAPID HUMAN 40 IU INJECTION 10 ML	actrapid	brand	Actrapid 100 IU/ml Flexpen
+5	AEROCORT WITH DOSE COUNTER 50/50 MCG INHALER 200 MDI	aerocort	exact	Aerocort Inhaler
+6	AJADUO 25/5 MG TABLET 10	ajaduo	exact	Ajaduo 25mg/5mg Tablet
+7	ALLEGRA 120 MG TABLET 10	allegra	exact	Allegra 120mg Tablet
+8	ALLEGRA 180 MG TABLET 10	allegra	exact	Allegra 180mg Tablet
+9	AMBISOME 50 MG INJECTION 20 ML	ambisome	exact	Ambisome Injection
+10	AMICIN 500 MG INJECTION 2 ML	amicin	exact	Amicin 500mg Injection
+11	AMLOKIND-AT 50/5 MG TABLET 10	amlokind at	exact	Amlokind-AT Tablet
+12	ASCORIL D PLUS NEW 5/2/10 MG SYRUP 100 ML	ascoril d plus	exact	Ascoril D Plus Syrup Sugar Free
+13	ASCORIL LS 1/30/50 MG SYRUP 100 ML	ascoril ls	exact	Ascoril LS Syrup
+14	ASCORIL PLUS 50/1.25/2 MG EXPECTORANT 120 ML	ascoril plus	brand	Ascoril Plus Tablet
+15	ASTHAKIND DX 5/2/15 MG SYRUP 100 ML	asthakind dx	exact	Asthakind-DX Syrup Sugar Free
+16	ASTHALIN 100 MCG INHALER 200 MDI	asthalin	exact	Asthalin 100mcg Inhaler
+17	AUGMENTIN DUO 500/125 MG TABLET 10	augmentin duo	brand	Augmentin Duo Oral Suspension
+18	AVOMINE 25 MG TABLET 10	avomine	exact	Avomine Tablet
+19	AXCER 90 MG TABLET 14	axcer	exact	Axcer  90mg Tablet
+20	AZEE 500 MG TABLET 5	azee	exact	Azee 500 Tablet
+21	AZITHRAL 500 MG TABLET 5	azithral	exact	Azithral 500 Tablet
+22	BECOSULES CAPSULE 20	becosules	none	
+23	BECOSULES Z CAPSULE 20	becosules z	none	
+24	BETADINE 10 % OINTMENT 20 GM	betadine	exact	Betadine 10% Ointment
+25	BETADINE 10 % SOLUTION 100 ML	betadine	brand	Betadine 10% Ointment
+26	BETADINE MINT 2 % GARGLE 100 ML	betadine	exact	Betadine 2% Gargle Mint
+27	BETNESOL 0.5 MG TABLET 20	betnesol	exact	Betnesol Tablet
+28	BETNOVATE C 0.1/3 % CREAM 30 GM	betnovate c	exact	Betnovate-C Cream
+29	BETNOVATE N 0.1/0.5 % CREAM 20 GM	betnovate n	exact	Betnovate-N  Cream
+30	BETNOVATE N 0.1/0.5 % CREAM 25 GM	betnovate n	exact	Betnovate-N  Cream
+31	BETT 0.5 ML INJECTION 0.5 ML	bett	none	
+32	BEVON SYRUP 200 ML	bevon	none	
+33	BIO D3 MAX 500 MG/0.25MCG/400MCG/120MG CAPSULE 15	bio d	none	
+34	BRILINTA 90 MG TABLET 14	brilinta	exact	Brilinta 90mg Tablet
+35	BRO ZEDEX 50/1.25/4 MG SYRUP 100 ML	bro zedex	brand	Bro-Zedex Syrup
+36	BUDECORT 0.5 MG RESPULES 2 ML	budecort	exact	Budecort 0.5mg Respules 2ml
+37	CALCIROL 60000 IU GRANULES 1 GM	calcirol	brand	Calcirol 600000IU Injection
+38	CALDIKIND PLUS 500 MG/0.25MCG/400MCG/60MG CAPSULE 10	caldikind plus	none	
+39	CALPOL 500 MG TABLET 15	calpol	exact	Calpol 500mg Tablet
+40	CALPOL 650 MG TABLET 15	calpol	exact	Calpol 650mg Tablet
+41	CALPOL PEAD 250 MG SUSPENSION 60 ML	calpol	exact	Calpol 250mg Paediatric Oral Suspension Strawberry
+42	CANDIFORCE 200 MG CAPSULE 7	candiforce	exact	Candiforce 200 Capsule
+43	CCM 250 MG TABLET 40	ccm	none	
+44	CEFAKIND 500 MG TABLET 10	cefakind	exact	Cefakind 500 Tablet
+45	CEFTUM 500 MG TABLET 4	ceftum	exact	Ceftum 500mg Tablet
+46	CEPODEM 200 MG TABLET 10	cepodem	exact	Cepodem 200 Tablet
+47	CHYMORAL FORTE 100000 IU TABLET 20	chymoral forte	brand	Chymoral Forte Tablet
+48	CIDMUS 24/26 MG TABLET 14	cidmus	exact	CIDMUS 50mg Tablet
+49	CILACAR 10 MG TABLET 15	cilacar	exact	Cilacar 10 Tablet
+50	CIPREMI 100 MG INJECTION 1	cipremi	exact	Cipremi Injection
+51	CLARIBID 500 MG TABLET 10	claribid	exact	Claribid 500 Tablet
+52	CLAVAM 500/125 MG TABLET 10	clavam	exact	Clavam 625 Tablet
+53	CLEXANE 40 MG INJECTION 0.4 ML	clexane	exact	Clexane 40mg Injection (0.4ml Each)
+54	CLEXANE 60 MG INJECTION 0.6 ML	clexane	exact	Clexane 60mg Injection (0.6ml Each)
+55	COBADEX CZS TABLET 15	cobadex czs	none	
+56	CODISTAR 4/10 MG SYRUP 100 ML	codistar	exact	Codistar  Syrup
+57	COMBIFLAM 400/325 MG TABLET 20	combiflam	exact	Combiflam Tablet
+58	CONCOR 5 MG TABLET 10	concor	exact	Concor 5 Tablet
+59	COREX DX 4/10 MG SYRUP 100 ML	corex dx	exact	Corex DX  Syrup
+60	CREMAFFIN PLUS SF 1.25 ML/3.75ML/3.33MG LIQUID 225 ML	cremaffin plus	brand	Cremaffin Plus  Syrup Refreshing Sugar Free
+61	CYPON 275/2 MG SYRUP 200 ML	cypon	exact	Cypon Syrup
+62	CYRA D 30/20 MG TABLET SR 10	cyra d	exact	Cyra-D Capsule
+63	DALACIN C 300 MG CAPSULE 10	dalacin c	exact	Dalacin C 300mg Capsule
+64	DECA DURABOLIN 50 MG INJECTION 1	deca durabolin	exact	Deca-Durabolin 50 Injection
+65	DEFCORT 6 MG TABLET 10	defcort	exact	Defcort 6 Tablet
+66	DERIPHYLLIN 25.3/84.7 MG INJECTION 2 ML	deriphyllin	exact	Deriphyllin Injection
+67	DEROBIN 1.15/1.15/5.3 % OINTMENT 30 GM	derobin	brand	Derobin  Ointment
+68	DEXONA (VIAL) 4 MG INJECTION 2 ML	dexona	exact	Dexona Injection
+69	DEXORANGE 160 MG/0.5MG/7.5MCG SYRUP 200 ML	dexorange	none	
+70	DOLO 650 MG TABLET 15	dolo	exact	Dolo 650 Tablet
+71	DOLONEX 20 MG TABLET DT 15	dolonex	brand	Dolonex Injection 2ml
+72	DOXINATE 10/10 MG TABLET 30	doxinate	exact	Doxinate Tablet
+73	DOXT SL 100 MG/5BIU CAPSULE 10	doxt sl	brand	Doxt-SL Capsule
+74	DOXY 1 FORTE L DR 100 MG/5BIU CAPSULE 10	doxy	brand	Doxy-1 L-Dr Forte Capsule
+75	DULCOFLEX 5 MG TABLET 10	dulcoflex	none	
+76	DUOLIN 3 1.25 MG/500MCG RESPULES 3 ML	duolin	exact	Duolin 3 Respules 3ml
+77	DUPHASTON 10 MG TABLET 10	duphaston	exact	Duphaston 10mg Tablet
+78	DYDROBOON 10 MG TABLET 10	dydroboon	exact	Dydroboon Tablet
+79	DYNAPAR AQ 75 MG INJECTION 1 ML	dynapar aq	exact	Dynapar AQ Injection 1ml
+80	EASY SIX PREFILLED SYRINGE 0.5 ML	easy	exact	Easy 5mg Syrup
+81	ECOSPRIN AV 10/75 MG CAPSULE 15	ecosprin av	exact	Ecosprin-AV 75 Capsule
+82	ECOSPRIN GOLD 75/20/75 MG TABLET 15	ecosprin gold	exact	Ecosprin Gold  20 Capsule
+83	ELAXIM 40 MG INJECTION 1	elaxim	exact	Elaxim 40 Injection
+84	ELECTRAL SACHET 21.8 GM	electral	none	
+85	ELIQUIS 2.5 MG TABLET 10	eliquis	exact	Eliquis 2.5mg Tablet
+86	ELIQUIS 5 MG TABLET 10	eliquis	exact	Eliquis 5mg Tablet
+87	ELTROXIN 100 MCG TABLET 120	eltroxin	exact	Eltroxin 100mcg Tablet
+88	ENTEROGERMINA 2 BIU ORAL SUSPENSION 5 ML	enterogermina	none	
+89	EXHEP 40 MG PREFILLED SYRINGE 0.4 ML	exhep	exact	Exhep 40 Injection
+90	FABIFLU 200 MG TABLET 34	fabiflu	exact	Fabiflu Tablet
+91	FABIFLU 400 MG TABLET 17	fabiflu	exact	Fabiflu 400 Tablet
+92	FABIFLU COPACK 800 MG TABLET 18	fabiflu	exact	Fabiflu 800 Co-Pack Tablet
+93	FARONEM 200 MG TABLET 10	faronem	exact	Faronem 200 Tablet
+94	FARONEM 300 MG TABLET ER 10	faronem	brand	Faronem 200 Tablet
+95	FORACORT 20/500 MCG RESPULES 2 ML	foracort	brand	Foracort Inhaler 200
+96	FORACORT 6/200 MCG ROTACAP 30	foracort	exact	Foracort Inhaler 200
+97	FORACORT 6/400 MCG ROTACAP 30	foracort	exact	Foracort 400 Rotacap
+98	FORXIGA 10 MG TABLET 14	forxiga	exact	Forxiga 10mg Tablet
+99	GABAPIN NT 400/10 MG TABLET 15	gabapin nt	exact	Gabapin NT Tablet
+100	GALVUS 50 MG TABLET 15	galvus	exact	Galvus 50mg Tablet
+101	GALVUS MET 50/1000 MG TABLET 15	galvus met	exact	Galvus Met 50mg/1000mg Tablet
+102	GALVUS MET 50/500 MG TABLET 15	galvus met	exact	Galvus Met 50mg/500mg Tablet
+103	GEFTINAT 250 MG TABLET 30	geftinat	exact	Geftinat 250mg Tablet
+104	GELUSIL MPS 250/50/250 MG LIQUID 200 ML	gelusil mps	none	
+105	GEMCAL 500 MG/0.25MCG/7.5MG CAPSULE 15	gemcal	exact	Gemcal -Kit
+106	GEMER 2/500 MG TABLET 10	gemer	exact	Gemer 2 Tablet PR
+107	GIBTULIO 25 MG TABLET 10	gibtulio	exact	Gibtulio 25mg Tablet
+108	GLUCONORM-G 2/500 MG TABLET 15	gluconorm g	exact	Gluconorm G2 Tablet PR
+109	GLYCOMET GP 1/500 MG TABLET 15	glycomet gp	exact	Glycomet-GP 1 Tablet PR
+110	GLYCOMET GP 2/500 MG TABLET SR 15	glycomet gp	exact	Glycomet-GP 2 Tablet PR
+111	GLYNASE MF 5/500 MG TABLET 10	glynase mf	exact	Glynase-MF Tablet
+112	GLYXAMBI 25/5 MG TABLET 10	glyxambi	exact	Glyxambi 25mg/5mg Tablet
+113	GRILINCTUS 60/2.5/5/50 MG SYRUP 100 ML	grilinctus	brand	Grilinctus  Syrup
+114	GUDCEF 200 MG TABLET 10	gudcef	exact	Gudcef 200 Tablet
+115	GUDCEF CV 200/125 MG TABLET 10	gudcef cv	exact	Gudcef-CV 200 Tablet
+116	HCQS 200 MG TABLET 15	hcqs	exact	HCQS 200 Tablet
+117	HEXAXIM INJECTION 0.5 ML	hexaxim	none	
+118	HUCOG HP 5000 IU INJECTION 1 ML	hucog	exact	HUCOG 5000 HP Injection
+119	HUMINSULIN 30/70 100 IU CARTRIDGE 3 ML	huminsulin	exact	Huminsulin  30/70 100IU/ml Cartridge 3ml
+120	INFANRIX HEXA INJECTION 0.5 ML	infanrix	exact	Infanrix Injection
+121	ISTAMET 50/500 MG TABLET 15	istamet	exact	Istamet 50mg/500mg Tablet
+122	IVABRAD 5 MG TABLET 15	ivabrad	exact	Ivabrad 5 Tablet
+123	IVERMECTOL NEW 12 MG TABLET 2	ivermectol	brand	Ivermectol 6 Tablet
+124	JALRA M 50/500 MG TABLET 15	jalra m	exact	Jalra-M  50mg/500mg Tablet
+125	JANUMET 50/1000 MG TABLET 15	janumet	exact	Janumet 50mg/1000mg Tablet
+126	JANUMET 50/500 MG TABLET 15	janumet	exact	Janumet 50mg/500mg Tablet
+127	JANUVIA 100 MG TABLET 7	januvia	exact	Januvia 100mg Tablet
+128	JARDIANCE 10 MG TABLET 10	jardiance	exact	Jardiance 10mg Tablet
+129	JARDIANCE 25 MG TABLET 10	jardiance	exact	Jardiance 25mg Tablet
+130	KABIMOL 1000 MG INFUSION 100 ML	kabimol	brand	Kabimol 500mg Infusion
+131	KARVOL PLUS CAPSULE 10	karvol plus	none	
+132	KENACORT 40 MG INJECTION 1 ML	kenacort	exact	Kenacort 40mg Injection
+133	KETOROL 10 MG TABLET DT 15	ketorol	exact	Ketorol Tablet
+134	KETOSTERIL TABLET 20	ketosteril	exact	Ketosteril Tablet
+135	LANTUS 100 IU CARTRIDGE 3 ML	lantus	exact	Lantus 100IU/ml Solution for Injection
+136	LANTUS SOLOSTAR 100 IU DISPOSABLE PEN 3 ML	lantus solostar	exact	Lantus Solostar 100IU/ml Solution for Injection
+137	LEVERA 500 MG TABLET 15	levera	exact	Levera 500 Tablet
+138	LEVIPIL 500 MG TABLET 10	levipil	exact	Levipil 500 Tablet
+139	LIBRAX 2.5/5 MG TABLET 20	librax	exact	Librax 5 mg/2.5 mg Tablet
+140	LIMCEE CHEW ORANGE 500 MG TABLET 15	limcee chew orange	none	
+141	LIPAGLYN 4 MG TABLET 10	lipaglyn	exact	Lipaglyn Tablet
+142	LMWX 40 MG INJECTION 0.4 ML	lmwx	exact	Lmwx 40 Injection
+143	LOBATE GM NEO 0.05/0.5/2 % CREAM 15 GM	lobate gm neo	exact	Lobate-GM Neo Lotion
+144	LONOPIN 40 MG INJECTION 0.4 ML	lonopin	exact	Lonopin 40mg Injection
+145	LOSAR 50 MG TABLET 15	losar	exact	Losar 50 Tablet
+146	LOSAR H 50/12.5 MG TABLET 15	losar h	exact	Losar-H Tablet
+147	MACBERY XT 50/1.25/4 MG SYRUP 100 ML	macbery	brand	Macbery Syrup Strawberry Sugar Free
+148	MAGNEX FORTE 1000/500 MG INJECTION 1	magnex forte	exact	Magnex Forte 1.5gm Injection
+149	MANFORCE 100 MG TABLET 4	manforce	exact	Manforce 100mg Tablet
+150	MANFORCE 50 MG TABLET 9	manforce	exact	Manforce 50mg Tablet
+151	MAXTRA 5/2 MG SYRUP 60 ML	maxtra	exact	Maxtra Syrup
+152	MEFTAL SPAS 10/250 MG TABLET 10	meftal spas	exact	Meftal-Spas Tablet
+153	MEGALIS 20 MG TABLET 4	megalis	exact	Megalis 20 Tablet
+154	MEGANEURON OD PLUS 1500 MCG CAPSULE 10	meganeuron od plus	exact	Meganeuron OD Plus Capsule
+155	MENACTRA INJECTION 0.5 ML	menactra	none	
+156	MERO 1000 MG INJECTION 1	mero	exact	Mero 1g Injection
+157	MEROMAC 1000 MG INJECTION 1	meromac	exact	Meromac 1gm Injection
+158	MERONEM 1000 MG INJECTION 1	meronem	exact	Meronem 1000mg Injection
+159	MEROZA 1000 MG INJECTION 1 ML	meroza	exact	Meroza 1000mg Injection
+160	MIFEGEST KIT 200 MG/200MCG TABLET 1	mifegest	exact	MIFEGEST KIT TABLET
+161	MIKACIN 500 MG INJECTION 2 ML	mikacin	exact	Mikacin 500mg Injection
+162	MINIPRESS XL 5 MG TABLET XL 30	minipress xl	exact	Minipress XL 5mg Tablet
+163	MIXTARD HM PENFILL 30/70 100 IU INJECTION 3 ML	mixtard	exact	Mixtard 30 HM 100IU/ml Penfill
+164	MIXTARD HUMAN 30/70 40 IU INJECTION 10 ML	mixtard	brand	Mixtard 30 HM 100IU/ml Penfill
+165	MIXTARD HUMAN 50/50 40 IU INJECTION 10 ML	mixtard	brand	Mixtard 30 HM 100IU/ml Penfill
+166	MONOCEF 1000 MG INJECTION 5 ML	monocef	exact	Monocef 1gm Injection
+167	MONOCEF O 200 MG TABLET 10	monocef o	exact	Monocef-O 200 Tablet
+168	MONOCEF SB 1000/500 MG INJECTION 1	monocef sb	exact	Monocef-SB 1g Injection
+169	MONTAIR LC 10/5 MG TABLET 15	montair lc	exact	Montair-LC Tablet
+170	MONTAZ 1000/125 MG INJECTION 1	montaz	exact	Montaz 1g Injection
+171	MONTEK-LC 10/5 MG TABLET 10	montek lc	exact	Montek LC Tablet
+172	MONTICOPE 10/5 MG TABLET 10	monticope	exact	Monticope Tablet
+173	MOX 500 MG CAPSULE 15	mox	exact	Mox 500mg Capsule
+174	MOX CV 500/125 MG TABLET 10	mox cv	exact	Mox CV 625 Tablet
+175	MOXCLAV 500/125 MG TABLET 10	moxclav	exact	Moxclav 625 Tablet
+176	MOXIKIND CV 500/125 MG TABLET 10	moxikind cv	exact	Moxikind-CV 625 Tablet
+177	MUCAINE MINT 10/291/98 MG GEL 200 ML	mucaine	exact	Mucaine Gel Mint Sugar Free
+178	MUCINAC SF ORANGE 600 MG TABLET 10	mucinac	exact	Mucinac 600 Effervescent Tablet Orange Sugar Free
+179	NEBICARD 5 MG TABLET 10	nebicard	exact	Nebicard 5 Tablet
+180	NEFROSAVE 150/500 MG TABLET 15	nefrosave	exact	Nefrosave Tablet
+181	NEUROBION FORTE TABLET 30	neurobion forte	none	
+182	NEXPRO 40 MG TABLET 15	nexpro	exact	Nexpro 40 Tablet
+183	NEXPRO RD 30/40 MG CAPSULE 10	nexpro rd	exact	Nexpro RD 40  Capsule SR
+184	NIKORAN 5 MG TABLET 20	nikoran	exact	Nikoran 5 Tablet
+185	NISE 100 MG TABLET 15	nise	exact	Nise Tablet
+186	NITROCONTIN 2.6 MG TABLET CR 30	nitrocontin	exact	Nitrocontin 2.6 Tablet CR
+187	NOVOMIX 100 IU CARTRIDGE 3 ML	novomix	exact	Novomix 30 100IU/ml Penfill
+188	NOVOMIX 30/70 MG FLEXPEN 3 ML	novomix	exact	Novomix 30 100IU/ml Penfill
+189	NOVORAPID 100 IU CARTRIDGE 3 ML	novorapid	exact	Novorapid 100IU Injection
+190	NUROKIND LC 500 MG/1.5MG/1500MCG TABLET 15	nurokind lc	exact	Nurokind-LC  Tablet
+191	NUROKIND PLUS RF 1500 MCG CAPSULE 10	nurokind plus rf	exact	Nurokind-Plus RF Capsule
+192	O2 200/500 MG TABLET 10	o	exact	O2 Tablet
+193	OMEZ 20 MG CAPSULE 20	omez	exact	Omez Capsule
+194	OMEZ D 30/20 MG CAPSULE SR 15	omez	brand	Omez Capsule
+195	OMNIKACIN 500 MG INJECTION 2 ML	omnikacin	exact	Omnikacin 500 Injection
+196	ONDERO 5 MG TABLET 10	ondero	exact	Ondero 5mg Tablet
+197	ONDERO MET 2.5/500 MG TABLET 10	ondero met	exact	Ondero Met 2.5mg/500mg Tablet
+198	OROFER FCM INJECTION 10 ML	orofer fcm	exact	Orofer FCM Injection
+199	OROFER-XT 100/1.5 MG TABLET 10	orofer xt	none	
+200	OROFER-XT PLUS 30 MG/500MCG/500MCG SUSPENSION 200 ML	orofer xt plus	none	
+201	OTRIVIN OXY FAST RELIEF 0.05 % SPRAY 10 ML	otrivin oxy fast relief	none	
+202	OVRAL L 0.03/0.15 MG TABLET 21	ovral l	exact	Ovral L Tablet
+203	OXRA 10 MG TABLET 14	oxra	exact	Oxra 10mg Tablet
+204	PAN 40 MG TABLET 15	pan	exact	PAN 40 Tablet
+205	PAN D 30/40 MG CAPSULE 15	pan d	exact	Pan-D Capsule PR
+206	PANDERM PLUS PLUS 0.05/0.5/2 % CREAM 15 GM	panderm	exact	Panderm + + Cream
+207	PANTIN IV 40 MG INJECTION 10 ML	pantin	exact	Pantin 40mg Injection
+208	PANTOCID 40 MG TABLET 15	pantocid	exact	Pantocid Tablet
+209	PANTOCID DSR 30/40 MG CAPSULE 15	pantocid dsr	exact	Pantocid DSR Capsule
+210	PANTODAC 40 MG TABLET 15	pantodac	exact	Pantodac 40 Tablet
+211	PANTODAC DSR 30/40 MG CAPSULE 15	pantodac dsr	exact	Pantodac DSR Capsule
+212	PANTOP 40 MG INJECTION 10 ML	pantop	exact	Pantop Injection
+213	PANTOP 40 MG TABLET 15	pantop	exact	Pantop 40 Tablet
+214	PANTOP D 10/20 MG CAPSULE 10	pantop d	exact	Pantop-D Capsule
+215	PANTOP D SR 30/40 MG CAPSULE SR 10	pantop d sr	exact	Pantop-D SR Capsule
+216	PHENSEDYL COUGH LINCTUS 4/10 MG SYRUP 100 ML	phensedyl	brand	Phensedyl 4mg/10mg Expectorant
+217	PIPZO 4000/500 MG INJECTION 10 ML	pipzo	exact	Pipzo 4.5gm Injection
+218	PRACTIN 4 MG TABLET 10	practin	exact	Practin 4mg Tablet
+219	PREGA NEWS KIT 6	prega	exact	Prega 75mg Capsule
+220	PREVENAR 13 INJECTION 0.5 ML	prevenar	exact	Prevenar 13 Vaccine
+221	R.B TONE SYRUP 200 ML	r b tone	brand	R.B Tone Injection
+222	RABLET-D 30/20 MG CAPSULE 10	rablet d	exact	Rablet D Capsule SR
+223	RANTAC 150 MG TABLET 30	rantac	exact	Rantac 150 Tablet
+224	RAZO 20 MG TABLET 15	razo	exact	Razo 20 Tablet
+225	RAZO D 30/20 MG TABLET 15	razo d	exact	Razo-D Capsule SR
+226	REFRESH TEARS 0.5 % EYE DROPS 10 ML	refresh tears	brand	Refresh Tears Eye Drop
+227	REJUNEX-CD3 TABLET 10	rejunex	brand	Rejunex Injection
+228	REMDAC 100 MG INJECTION 1	remdac	exact	Remdac Injection
+229	ROSUVAS 10 MG TABLET 15	rosuvas	exact	Rosuvas 10 Tablet
+230	ROSUVAS 20 MG TABLET 10	rosuvas	exact	Rosuvas 20 Tablet
+231	RYZODEG 2.56/1.05 MG PENFILL 3 ML	ryzodeg	exact	Ryzodeg 100IU/ml Penfill
+232	SARIDON 250/50/150 MG TABLET 10	saridon	none	
+233	SEROFLO 50/250 MCG ROTACAP 30	seroflo	exact	Seroflo 250 Rotacap
+234	SHELCAL 500 MG/250IU TABLET 15	shelcal	none	
+235	SHELCAL XT 500 MG/2000IU/1500MCG/1MG/20MG TABLET 15	shelcal xt	none	
+236	SILODAL 8 MG TABLET 10	silodal	exact	Silodal 8 Capsule
+237	SILODAL D 8/0.5 MG TABLET 10	silodal d	exact	Silodal-D 8 Capsule
+238	SINAREST 125/5/1 MG SYRUP 60 ML	sinarest	brand	Sinarest Syrup
+239	SINAREST NEW 500/10/2 MG TABLET 10	sinarest new	brand	Sinarest New Tablet
+240	SINAREST NEW 500/10/2 MG TABLET 15	sinarest new	brand	Sinarest New Tablet
+241	SKINLITE 2/0.1/0.025 % CREAM 25 GM	skinlite	exact	Skinlite Cream
+242	SOMPRAZ D 30/40 MG CAPSULE 15	sompraz d	exact	Sompraz D 40 Capsule SR
+243	SPASMO PROXYVON PLUS 10/325/50 MG CAPSULE 8	spasmo proxyvon plus	brand	Spasmo-Proxyvon Plus Capsule
+244	SPEGRA 50/200/25 MG TABLET 30	spegra	exact	Spegra Tablet
+245	STAMLO 5 MG TABLET 30	stamlo	exact	Stamlo 5 Tablet
+246	STAMLO BETA 50/5 MG TABLET 15	stamlo beta	exact	Stamlo Beta Tablet
+247	STEMETIL 5 MG TABLET MD 15	stemetil	brand	Stemetil Injection
+248	SUCRAFIL O 1000/20 MG GEL 200 ML	sucrafil o	brand	Sucrafil O Gel Sugar Free
+249	SUMO 100/325 MG TABLET 15	sumo	exact	Sumo Tablet
+250	SUMO L IV 1000 MG INFUSION 100 ML	sumo l iv	exact	Sumo L IV Infusion
+251	SUPRADYN TABLET 15	supradyn	none	
+252	SYNFLORIX INJECTION 1	synflorix	none	
+253	T BACT 2 % OINTMENT 15 GM	t bact	exact	T-Bact 2% Ointment
+254	T BACT 2 % OINTMENT 5 GM	t bact	exact	T-Bact 2% Ointment
+255	TARGOCID 400 MG INJECTION 1 ML	targocid	exact	Targocid 400mg Injection
+256	TAXIM O 200 MG TABLET 10	taxim o	exact	Taxim-O 200 Tablet
+257	TAZOMAC 4000/500 MG INJECTION 2 ML	tazomac	exact	Tazomac 4.5gm Injection
+258	TELEKAST-L 10/5 MG TABLET 15	telekast l	exact	Telekast-L Tablet
+259	TELMA 40 MG TABLET 30	telma	exact	Telma 40 Tablet
+260	TELMA AM 40/5 MG TABLET 15	telma am	exact	Telma-AM Tablet
+261	TELMA H 40/12.5 MG TABLET 15	telma h	exact	Telma H Tablet
+262	TELMIKIND 40 MG TABLET 10	telmikind	exact	Telmikind 40 Tablet
+263	TELMIKIND AM 40/5 MG TABLET 10	telmikind am	exact	Telmikind-AM Tablet
+264	TELMIKIND H 40/12.5 MG TABLET 10	telmikind h	exact	Telmikind-H Tablet
+265	THROMBOPHOB OINTMENT 20 GM	thrombophob	exact	Thrombophob Ointment
+266	THYRONORM 100 MCG TABLET 120	thyronorm	exact	Thyronorm 100mcg Tablet
+267	THYRONORM 25 MCG TABLET 120	thyronorm	exact	Thyronorm 25mcg Tablet
+268	THYRONORM 50 MCG TABLET 120	thyronorm	exact	Thyronorm 50mcg Tablet
+269	TOSSEX NEW 4/10 MG SYRUP 100 ML	tossex	brand	Tossex 12 Oral Suspension Orange
+270	TRAJENTA 5 MG TABLET 10	trajenta	exact	Trajenta 5mg Tablet
+271	TRESIBA FLEXTOUCH 100 IU DISPOSABLE PEN 3 ML	tresiba	exact	Tresiba 100 Units/ml Penfill
+272	TUSQ DX 5/2/15 MG SYRUP 100 ML	tusq dx	brand	TusQ-DX Liquid
+273	UDILIV 150 MG TABLET 15	udiliv	exact	Udiliv 150mg Tablet
+274	UDILIV 300 MG TABLET 15	udiliv	exact	Udiliv 300 Tablet
+275	ULTRACET 325/37.5 MG TABLET 15	ultracet	exact	Ultracet Tablet
+276	UNIENZYME TABLET 15	unienzyme	none	
+277	UNWANTED 72 1.5 MG TABLET 1	unwanted	brand	Unwanted 21 Days Tablet
+278	UNWANTED KIT 200 MG/200MCG TABLET 1	unwanted	brand	Unwanted 21 Days Tablet
+279	UPRISE D3 60000 IU CAPSULE 8	uprise d	exact	Uprise-D3 60K Capsule
+280	URIMAX 0.4 MG CAPSULE 20	urimax	exact	Urimax 0.4 Capsule MR
+281	URIMAX D 0.4/0.5 MG TABLET 15	urimax d	exact	Urimax D Tablet MR
+282	URSOCOL 300 MG TABLET 15	ursocol	exact	Ursocol 300 Tablet
+283	VARILRIX INJECTION 0.5 ML	varilrix	none	
+284	VELOZ D 30/20 MG CAPSULE SR 10	veloz d	exact	Veloz D Capsule SR
+285	VELPANAT 400/100 MG TABLET 28	velpanat	exact	Velpanat Tablet
+286	VERTIN 16 MG TABLET 15	vertin	exact	Vertin 16 Tablet
+287	VOLINI 1.16 % SPRAY 40 GM	volini	brand	Volini 100mg Tablet SR
+288	VORIER 200 MG TABLET 4	vorier	exact	Vorier 200mg Tablet
+289	VOVERAN SR 100 MG TABLET SR 15	voveran sr	exact	Voveran SR 100 Tablet
+290	VYMADA 24/26 MG TABLET 14	vymada	exact	Vymada 50mg Tablet
+291	WYSOLONE 10 MG TABLET DT 15	wysolone	exact	Wysolone 10 Tablet DT
+292	WYSOLONE 5 MG TABLET DT 15	wysolone	exact	Wysolone 5 Tablet DT
+293	XONE 1000 MG INJECTION 5 ML	xone	exact	Xone 1000mg Injection
+294	ZAVICEFTA 2000/500 MG VIAL 10 ML	zavicefta	brand	Zavicefta Injection
+295	ZEDEX 4/5/50 MG SYRUP 100 ML	zedex	brand	Zedex Lozenges
+296	ZERODOL P 100/325 MG TABLET 10	zerodol p	exact	Zerodol-P Tablet
+297	ZERODOL SP 100/325/15 MG TABLET 10	zerodol sp	exact	Zerodol-SP Tablet
+298	ZIFI 200 MG TABLET 10	zifi	exact	Zifi 200 Tablet
+299	ZORYL-M 2/500 MG TABLET 20	zoryl m	exact	Zoryl-M 2 Tablet PR
+300	ZOSTUM 1000/500 MG INJECTION 1	zostum	exact	Zostum 1.5gm Injection

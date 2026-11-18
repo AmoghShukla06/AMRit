@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Only the rendered share card is exposed (cache/share/), never the database or anything else. -->
+<paths>
+    <cache-path name="share" path="share/" />
+    <!-- a bill photo taken for the bill saver: read once, then deleted -->
+    <cache-path name="bill" path="bill/" />
+</paths>

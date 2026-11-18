@@ -1,0 +1,7 @@
+.env
+.venv/
+*.db
+*.log
+__pycache__/
+test_backend.py
+tunnel.sh
